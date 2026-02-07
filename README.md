@@ -44,7 +44,7 @@ limitations under the License.
 <!-- eslint-disable id-length -->
 
 ```javascript
-import FLOAT32_MAX_SAFE_NTH_TRIBONACCI from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-max-safe-nth-tribonacci@esm/index.mjs';
+import FLOAT32_MAX_SAFE_NTH_TRIBONACCI from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-max-safe-nth-tribonacci@v0.1.1-esm/index.mjs';
 ```
 
 #### FLOAT32_MAX_SAFE_NTH_TRIBONACCI
@@ -76,7 +76,7 @@ var bool = ( FLOAT32_MAX_SAFE_NTH_TRIBONACCI === 30 );
 <body>
 <script type="module">
 
-import FLOAT32_MAX_SAFE_NTH_TRIBONACCI from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-max-safe-nth-tribonacci@esm/index.mjs';
+import FLOAT32_MAX_SAFE_NTH_TRIBONACCI from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-max-safe-nth-tribonacci@v0.1.1-esm/index.mjs';
 
 function tribonacci( n ) {
     var a;
